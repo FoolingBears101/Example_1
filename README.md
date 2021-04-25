@@ -9,7 +9,7 @@ For these TODOs, the ESP32 sensors and leds are setup on :
 
 # TODO1 :
 
-
+No real need for a tutorial. Verify the pins in the ino files then upoad the updated files into the ESP32 an enjoy.
 
 
 # TODO2 : 
